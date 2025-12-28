@@ -1,20 +1,26 @@
 
 ## Table of Contents
 
-- [1. Purpose](#1-purpose)
-- [2. Goals](#2-goals)
-- [3. Core Concept](#3-core-concept)
-- [4. Supported Targets](#4-supported-targets)
+- [1. Install Docker](#1-Install Docker)
+- [2. docker-compose.yml](#2-docker-compose)
+- [3. Install Hadoop , Spark by docker compose](#3-Install_Hadoop_Spark)
+- [4. Call Hadoop ](#4-Call_Hadoop)
+- [5. Call_Spark ](#5-Call_Spark)
   - [4.1 Name (process or service)](#41-name-process-or-service)
   - [4.2 PID](#42-pid)
-  - 
+ 
+  #1-Install Docker
+  
  1-  Install Docker  
  
+ #2-docker-compose
  
  2- I create folder from my computer exemple
  - E:\Master_TP\BIGDATA\Docker_HadoopSpark
  -  create file docker-compose.yml
-   
+
+ #3-Install_Hadoop_Spark
+ 
  3- Open PowerShell and  run command
     
      - Goto folder --> cd E:\Master_TP\BIGDATA\Docker_HadoopSpark
@@ -29,12 +35,14 @@
  
  <img width="775" height="470" alt="powerShell_start" src="https://github.com/user-attachments/assets/bb73f85f-8181-44fb-a2a8-e0fc39dc6fba" />
 
+   #4-Call_Hadoop
+   
 Call Hadoop From Browse
 - http://localhost:9870/dfshealth.html#tab-datanode
 
  <img width="1582" height="1236" alt="Screenshot 2025-12-28 at 15-39-13 Namenode information" src="https://github.com/user-attachments/assets/1ecf7abf-6f99-41ed-b676-310b8d801c4e" />
  
-
+   #5-Call_Spark
 Call Spark From Browse
 - http://localhost:8080/
 
