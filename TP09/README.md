@@ -1,6 +1,8 @@
- 1- create folder from my computer D: drive and set file docker-compose.yml # this file is attached from my project 
+ 1- I create folder from my computer exemple
+ - E:\Master_TP\BIGDATA\Docker_HadoopSpark
+ -  create file docker-compose.yml 
  2- Open PowerShell and  run command
- -
+     - Goto folder --> cd E:\Master_TP\BIGDATA\Docker_HadoopSpark
      -  docker compose down
      -  docker compose up -d
 
