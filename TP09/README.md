@@ -1,5 +1,6 @@
  1- create folder from my computer D: drive and set file docker-compose.yml # this file is attached from my project 
  2- Open PowerShell and  run command
+ -
      -  docker compose down
      -  docker compose up -d
 
