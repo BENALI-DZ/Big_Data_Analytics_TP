@@ -1,4 +1,6 @@
- 1-  Install Docker
+ 1-  Install Docker  
+ 
+ 
  2- I create folder from my computer exemple
  - E:\Master_TP\BIGDATA\Docker_HadoopSpark
  -  create file docker-compose.yml 
