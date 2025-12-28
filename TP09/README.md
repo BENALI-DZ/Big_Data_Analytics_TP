@@ -4,7 +4,7 @@
  2- I create folder from my computer exemple
  - E:\Master_TP\BIGDATA\Docker_HadoopSpark
  -  create file docker-compose.yml
- -  
+   
  3- Open PowerShell and  run command
     
      - Goto folder --> cd E:\Master_TP\BIGDATA\Docker_HadoopSpark
