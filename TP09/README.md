@@ -46,9 +46,9 @@ Call Spark From Browse
 
 <img width="655" height="533" alt="image" src="https://github.com/user-attachments/assets/7f233bba-742a-445f-8fda-7e6499e5ed6d" />
 
-Sparck 
+Spark 
+
+
 <img width="654" height="87" alt="image" src="https://github.com/user-attachments/assets/c35f2350-3b80-4a5c-ac31-1f665681d255" />
 
-
-<img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/9ffcb366-0c9e-481e-b88d-f4fc9c730d19" />
 
