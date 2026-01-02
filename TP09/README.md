@@ -46,3 +46,22 @@ Call Spark From Browse
 - http://localhost:8080/
 
 <img width="1600" height="738" alt="Screenshot 2025-12-28 at 15-38-05 Spark Master at spark __spark-master 7077" src="https://github.com/user-attachments/assets/64b92c35-0e7e-4d5c-92e3-5e6be59a5d89" />
+
+
+#!/bin/bash
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export HDFS_NAMENODE_USER=root
+export HDFS_DATANODE_USER=root
+export HDFS_SECONDARYNAMENODE_USER=root
+export YARN_RESOURCEMANAGER_USER=root
+export YARN_NODEMANAGER_USER=root
+
+/opt/hadoop-3.2.1/sbin/start-dfs.sh
+/opt/hadoop-3.2.1/sbin/start-yarn.sh
+hdfs --daemon start secondarynamenode
+
+echo "Hadoop Services Started Successfully!"
+
+
+<img width="575" height="429" alt="sparck" src="https://github.com/user-attachments/assets/9ba4b8f8-8067-47b9-aa4c-addb295f1872" />
+
