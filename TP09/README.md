@@ -35,15 +35,14 @@ Call Hadoop From Browse
    #5-Call_Spark
 Call Spark From Browse
 - http://localhost:8080/
-1
+
 <img width="1600" height="738" alt="Screenshot 2025-12-28 at 15-38-05 Spark Master at spark __spark-master 7077" src="https://github.com/user-attachments/assets/64b92c35-0e7e-4d5c-92e3-5e6be59a5d89" />
-2
+
 <img width="644" height="88" alt="image" src="https://github.com/user-attachments/assets/811a3cec-a323-48f3-abf2-c459e9134714" />
-3
+
 <img width="665" height="91" alt="image" src="https://github.com/user-attachments/assets/10f6871d-c54c-46ee-a2b5-3502397045d4" />
-4
-<img width="650" height="367" alt="image" src="https://github.com/user-attachments/assets/123fc1c2-d215-427b-b610-d0cd81d97395" />
-5
+
+<img width="653" height="422" alt="image" src="https://github.com/user-attachments/assets/7b1a9e79-f7a5-4244-8510-3a49a84fdaae" />
 
 
 <img width="575" height="429" alt="sparck" src="https://github.com/user-attachments/assets/9ba4b8f8-8067-47b9-aa4c-addb295f1872" />
