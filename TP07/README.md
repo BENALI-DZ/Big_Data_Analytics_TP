@@ -14,5 +14,4 @@ Install Apache Kafka on Windows
 
 5/ On Internet Browser open  : http://localhost:8080/
 
-
-<img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/3f2ad0dd-a5a1-42ec-bbb2-0e254cb6907e" />
+<img width="1151" height="631" alt="image" src="https://github.com/user-attachments/assets/093d85b3-91e4-4d6f-a314-4915c2d2d1d4" />
