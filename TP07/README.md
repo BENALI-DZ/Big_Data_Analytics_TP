@@ -1,4 +1,5 @@
 Install Apache Kafka
-1/
-<img width="806" height="415" alt="image" src="https://github.com/user-attachments/assets/91956e95-962e-46fd-92cf-9ce1537a1294" />
-2/
+1/ By Docker 
+1/ create file docker-compose.ym  from folder : D:\Master_TP\BIGDATA\Kafka
+1/ Open  Power sher and goto folder and run command : docker-compose up -d
+<img width="549" height="169" alt="image" src="https://github.com/user-attachments/assets/1b3180f5-eb41-4cd5-866f-d9238fee574b" />
