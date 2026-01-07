@@ -5,8 +5,8 @@
    
  #2-docker-compose
  
- 2- I create folder from my computer exemple
- - E:\Master_TP\BIGDATA\Docker_HadoopSpark
+ -  I create folder from my computer exemple
+ -  E:\Master_TP\BIGDATA\Docker_HadoopSpark
  -  create file docker-compose.yml
 
  #3-Install_Hadoop_Spark
