@@ -22,6 +22,9 @@ Install Apache Kafka on Windows
 
 docker exec -it kafka-1 kafka-topics --create --topic site_sensors --bootstrap-server localhost:9092 --partitions 3 --replication-factor 3
 
+<img width="713" height="337" alt="image" src="https://github.com/user-attachments/assets/71da4be2-9596-4d3d-906d-5b1dd492e28b" />
+
+
 <img width="780" height="439" alt="image" src="https://github.com/user-attachments/assets/2f120224-b249-4ebc-915d-27776f791858" />
 
 
